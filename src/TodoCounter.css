@@ -1,0 +1,13 @@
+.todoCounter {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  color: #0c3c58;
+}
+
+.todoCounter span {
+  font-weight: bold;
+}
